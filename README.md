@@ -34,3 +34,5 @@ Instructions for project setup:--
 User Credentials
  userName : johnd
  Password : m38rmF$ 
+
+release url : https://we.tl/t-uXjCshquxm
