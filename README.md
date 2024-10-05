@@ -31,3 +31,6 @@ Instructions for project setup:--
 8. Build APK (Android): flutter build apk --release 
 
 
+User Credentials
+ userName : johnd
+ Password : m38rmF$ 
